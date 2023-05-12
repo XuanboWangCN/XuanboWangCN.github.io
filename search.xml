@@ -4,44 +4,6 @@
   
     
     <entry>
-      <title>”Opean“</title>
-      <link href="/2023/05/10/%E2%80%9DOpean%E2%80%9C/"/>
-      <url>/2023/05/10/%E2%80%9DOpean%E2%80%9C/</url>
-      
-        <content type="html"><![CDATA[<h2 id="”Opean“"><a href="#”Opean“" class="headerlink" title="”Opean“"></a>”Opean“</h2><p>原open，Opean为拼写错误</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs"><br></code></pre></td></tr></table></figure><p><a href="/openwq.html">Opean</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 其他 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>下载网易云音乐的音乐</title>
-      <link href="/2023/05/04/%E4%B8%8B%E8%BD%BD%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E9%9F%B3%E4%B9%90/"/>
-      <url>/2023/05/04/%E4%B8%8B%E8%BD%BD%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E9%9F%B3%E4%B9%90/</url>
-      
-        <content type="html"><![CDATA[<h2 id="下载网易云的音乐"><a href="#下载网易云的音乐" class="headerlink" title="下载网易云的音乐"></a>下载网易云的音乐</h2><form target="_blank" method="get" action="https://music.163.com/song/media/outer/url?id=">    <input type="text" placeholder="请输入音乐的ID" name="id" class="text" />    <input type="submit" value="解析/下载" class="search"></form><p>提示:此为官方解析，并且下载链接来自网易云音乐</p><h3 id="如何获取ID"><a href="#如何获取ID" class="headerlink" title="如何获取ID"></a>如何获取ID</h3><p>打开<a href="https://music.163.com/">网易云音乐 (163.com)</a>   搜索您想要下载的歌曲 点击歌曲进入详情页</p><p>我以 沉默是金 为例</p><p><img src="https://bu.dusays.com/2023/05/04/6453aa441c8a0.png" alt="img"></p><p>可以看到 链接为<a href="https://music.163.com/#/song?id=188204">https://music.163.com/#/song?id=188204</a></p><p>其中<strong>188204</strong>则为歌曲的ID，输入到文章开头的<strong>请输入音乐的ID</strong>里面，然后点击<strong>解析&#x2F;下载</strong>即可下载</p><p>同理，如果要下 偏偏喜欢你 只需要在网易云音乐找出偏偏喜欢你的ID即可</p><p>顺便提一嘴 下载链接是永久有效的（如果网易云音乐没屏蔽的话），并且可以作为直链使用（如HTML5插入音频标签）</p><p>链接为网易云音乐官方的</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 其它 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>人物介绍-张国荣</title>
       <link href="/2023/05/03/%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%BB%8D-%E5%BC%A0%E5%9B%BD%E8%8D%A3/"/>
       <url>/2023/05/03/%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%BB%8D-%E5%BC%A0%E5%9B%BD%E8%8D%A3/</url>
@@ -53,25 +15,6 @@
         <tags>
             
             <tag> 人物介绍 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>视频-许冠杰2023演唱会</title>
-      <link href="/2023/05/02/%E8%A7%86%E9%A2%91-%E8%AE%B8%E5%86%A0%E6%9D%B02023%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
-      <url>/2023/05/02/%E8%A7%86%E9%A2%91-%E8%AE%B8%E5%86%A0%E6%9D%B02023%E6%BC%94%E5%94%B1%E4%BC%9A/</url>
-      
-        <content type="html"><![CDATA[<video width="100%" height="540" controls="" __idm_id__="5103617">  <source src="http://storage.live.com/items/416003135C38B33!128:/%E8%AE%B8%E5%86%A0%E6%9D%B02023%E6%BC%94%E5%94%B1%E4%BC%9A.mp4?authkey=ALUS5c8JLk22bVg" type="video/mp4"></video><hr><h6 id="简介"><a href="#简介" class="headerlink" title="简介:"></a>简介:</h6><p>使用 <del>高级</del> 的OneDrive    首次播放需要等待20s左右 （其实一下就好了）      </p><h6 id="时长：-3-37-45-来源：互联网"><a href="#时长：-3-37-45-来源：互联网" class="headerlink" title="时长：[3:37:45]        来源：互联网"></a><strong>时长：[3:37:45]</strong>        来源：互联网</h6>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 视频 </tag>
             
         </tags>
       
@@ -110,25 +53,6 @@
         <tags>
             
             <tag> 教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>视频-Beyond《光辉岁月》《真的爱你》《海阔天空》</title>
-      <link href="/2023/04/20/%E8%A7%86%E9%A2%91-Beyond%E3%80%8A%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88%E3%80%8B%E3%80%8A%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E3%80%8B%E3%80%8A%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%E3%80%8B/"/>
-      <url>/2023/04/20/%E8%A7%86%E9%A2%91-Beyond%E3%80%8A%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88%E3%80%8B%E3%80%8A%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E3%80%8B%E3%80%8A%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%E3%80%8B/</url>
-      
-        <content type="html"><![CDATA[<hr><iframe src="//player.bilibili.com/player.html?bvid=BV16r4y1z7SE&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe><hr><p><strong>《光辉岁月》写的是曼德拉的抗争与希望 《真的爱你》写的是母爱 《海阔天空》写的是信念、信仰与力量</strong></p><h6 id="Up主-音乐私藏馆的个人空间-哔哩哔哩-bilibili"><a href="#Up主-音乐私藏馆的个人空间-哔哩哔哩-bilibili" class="headerlink" title="Up主:音乐私藏馆的个人空间_哔哩哔哩_bilibili"></a>Up主:<a href="https://space.bilibili.com/229733301">音乐私藏馆的个人空间_哔哩哔哩_bilibili</a></h6>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 视频 </tag>
             
         </tags>
       
