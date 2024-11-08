@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>极域电子教室中解除网络限制或控制</title>
+      <link href="/2024/11/08/ITCLASSNET/"/>
+      <url>/2024/11/08/ITCLASSNET/</url>
+      
+        <content type="html"><![CDATA[<h1 id="极域电子教室中解除网络限制或控制"><a href="#极域电子教室中解除网络限制或控制" class="headerlink" title="极域电子教室中解除网络限制或控制"></a>极域电子教室中解除网络限制或控制</h1><p><strong>步骤一:</strong> 打开一个 <u>以管理员身份运行的</u> 命令提示符 <strong>(CMD.exe)</strong></p><p>**步骤二:**键入以下内容 <strong>(建议复制)</strong></p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmd"><span class="hljs-built_in">taskkill</span> /im MasterHelper.exe<br></code></pre></td></tr></table></figure><p>按下回车，然后再键入以下内容</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmd">sc stop tdnetfilter<br></code></pre></td></tr></table></figure><p>按下回车</p><p><strong>在这时候你就成功解除了网络限制了，尝试访问一个网站吧，例如 <a href="https://bing.com/">bing.com</a>。</strong></p><h4 id="你也可以直接下载我编写好的脚本，只需要运行即可"><a href="#你也可以直接下载我编写好的脚本，只需要运行即可" class="headerlink" title="你也可以直接下载我编写好的脚本，只需要运行即可"></a>你也可以直接下载我编写好的脚本，只需要运行即可</h4><p>从 Github 下载 <a href="https://github.com/XuanboWangCN/MyFile/blob/main/HackClassNetwork.BAT">HackClassNetwork.BAT</a></p><p>建议保存到 移动存储设备 以备用</p><p>本文章与脚本以及网站 仅分享技术，请合理使用技术，本网站不承担任何责任</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>转载:TVB-维基百科</title>
       <link href="/2024/11/03/TVBWikipedia/"/>
       <url>/2024/11/03/TVBWikipedia/</url>
