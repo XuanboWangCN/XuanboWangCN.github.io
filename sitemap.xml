@@ -2,7 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.xuanbo.top/%E7%95%99%E8%A8%80%E6%9D%BF/index.html</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xuanbo.top/2024/11/08/ITCLASSNET/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/05/03/PZGR/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/04/01/TCMSJ/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/03/05/TDYDJS/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/04/10/TFDJJ/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/03/08/TGXTDN/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/03/06/THR/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/03/14/TMBRSL/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/03/27/TPPXHN/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/03/06/TRSHCBXF/</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xuanbo.top/2023/04/20/TZDAN/</loc>
     
     <lastmod>2024-11-08</lastmod>
     
@@ -47,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xuanbo.top/%E7%95%99%E8%A8%80%E6%9D%BF/index.html</loc>
-    
-    <lastmod>2024-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xuanbo.top/about/index.html</loc>
     
     <lastmod>2024-02-05</lastmod>
@@ -74,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xuanbo.top/2023/04/20/TZDAN/</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xuanbo.top/2023/04/24/TW10/</loc>
     
     <lastmod>2023-05-14</lastmod>
@@ -92,52 +173,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xuanbo.top/2023/03/27/TPPXHN/</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/03/14/TMBRSL/</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/04/10/TFDJJ/</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/04/01/TCMSJ/</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xuanbo.top/2023/04/02/TBING/</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/05/03/PZGR/</loc>
     
     <lastmod>2023-05-14</lastmod>
     
@@ -158,51 +194,6 @@
     <loc>https://blog.xuanbo.top/2023/05/14/newwin/</loc>
     
     <lastmod>2023-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/03/06/TRSHCBXF/</loc>
-    
-    <lastmod>2023-05-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/03/05/TDYDJS/</loc>
-    
-    <lastmod>2023-05-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/03/08/TGXTDN/</loc>
-    
-    <lastmod>2023-05-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/2023/03/06/THR/</loc>
-    
-    <lastmod>2023-05-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xuanbo.top/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/index.html</loc>
-    
-    <lastmod>2023-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

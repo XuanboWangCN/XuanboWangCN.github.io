@@ -59,7 +59,7 @@
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"blog.xuanbo.top","root":"/","version":"1.9.4","typing":{"enable":false,"typeSpeed":40,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":"siteId=18935260","google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
+    var CONFIG = {"hostname":"blog.xuanbo.top","root":"/","version":"1.9.4","typing":{"enable":true,"typeSpeed":55,"cursorChar":"_","loop":false,"scope":["home"]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":"siteId=18935260","google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -117,7 +117,7 @@
             <li class="nav-item">
               <a class="nav-link" href="/">
                 <i class="iconfont icon-home-fill"></i>
-                <span>Blog首页</span>
+                <span>Blog 首页</span>
               </a>
             </li>
           
@@ -182,18 +182,6 @@
             </li>
           
         
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/">
-                <i class="iconfont icon-notebook"></i>
-                <span>更新日志</span>
-              </a>
-            </li>
-          
-        
         
           <li class="nav-item" id="search-btn">
             <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
@@ -219,11 +207,11 @@
 <div id="banner" class="banner" parallax=true
      style="background: url('https://tool.liumingye.cn/bingimg/img.php') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
-    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.4)">
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle">Xuanbo的blog</span>
+            <span id="subtitle" data-typed-text="Xuanbo的blog"></span>
           
         </div>
 
@@ -269,7 +257,7 @@
       
       <a class="index-excerpt index-excerpt__noimg" href="/2024/11/08/ITCLASSNET/" target="_self">
         <div>
-          极域电子教室中解除网络限制或控制步骤一: 打开一个 以管理员身份运行的 命令提示符 (CMD.exe) **步骤二:**键入以下内容 (建议复制) 1taskkill /im MasterHelper.exe  按下回车，然后再键入以下内容 1sc stop tdnetfilter  按下回车 在这时候你就成功解除了网络限制了，尝试访问一个网站吧，例如 bing.com。 你也可以直接下载我编写好
+          极域电子教室中解除网络限制或控制步骤一: 打开一个 以管理员身份运行的 命令提示符 (CMD.exe) **步骤二:**键入以下内容 (建议复制) 1taskkill /im MasterHelper.exe  按下回车，然后再键入以下内容 1sc stop tdnetfilter  按下回车 在这时候你就成功解除了网络限制了，尝试访问一个网站吧，例如 bing.com。  你也可以直接下载我编写
         </div>
       </a>
 
@@ -709,7 +697,7 @@
     <div class="footer-inner">
   
     <div class="footer-content">
-       <i class="iconfont icon-pen"></i> <a href="https://xuanbowangcn.github.io/about/" target="_blank" rel="nofollow noopener"><span>BobWang</span></a> <br> <script async src="https://npm.elemecdn.com/penndu@1.0.0/bsz.js"></script> 本网站总访问量: <span id="busuanzi_value_site_pv"></span> 次 
+       "攀条折其荣，将以遗所思"<br> <script async src="https://npm.elemecdn.com/penndu@1.0.0/bsz.js"></script> 本网站总访问量: <span id="busuanzi_value_site_pv"></span> 次<br> <a href="Https://xuanbo.top" target="_blank" rel="nofollow noopener"><span>Xuanbo.top</span></a><br> This blog are using Hexo and Fluid. 
     </div>
   
   
@@ -738,6 +726,21 @@
 <script  src="/js/events.js" ></script>
 <script  src="/js/plugins.js" ></script>
 
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
 
 
 
